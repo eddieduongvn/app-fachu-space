@@ -842,6 +842,7 @@ function App() {
           <div>
             <p className="eyebrow">CEO Dashboard</p>
             <h2>Business overview and execution health</h2>
+            <p className="role-summary">Live on app.fachu.space, auto-deployed from GitHub.</p>
           </div>
           <div className="topbar-right">
             <div className="search-box">Role: {activeRole} · ERP-style UI, edit through action buttons</div>
