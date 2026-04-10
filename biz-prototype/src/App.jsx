@@ -177,7 +177,7 @@ function LoginPage({ onLogin }) {
       <div className="login-card panel">
         <div className="brand-mark">NX</div>
         <p className="eyebrow">FACHU ECOM</p>
-        <h2>FACHU Command Control Center</h2>
+        <h2>AppFachu Control Center</h2>
         <p className="login-copy">Đăng nhập vào workspace điều hành doanh nghiệp, dự án, CRM và hiệu suất đội ngũ.</p>
         <div className="login-form">
           <input defaultValue="ceo@fachu-ecom.com" placeholder="Email" />
@@ -800,7 +800,7 @@ function App() {
           <div>
             <div className="brand-mark">NX</div>
             <div className="brand-copy">
-              <h1>FACHU Command</h1>
+              <h1>AppFachu</h1>
               <p>Global e-commerce operations ERP</p>
             </div>
           </div>
@@ -842,7 +842,7 @@ function App() {
           <div>
             <p className="eyebrow">CEO Dashboard</p>
             <h2>Business overview and execution health</h2>
-            <p className="role-summary">Live on app.fachu.space, auto-deployed from GitHub.</p>
+            <p className="role-summary">Project AppFachu, live on app.fachu.space and auto-deployed from GitHub.</p>
           </div>
           <div className="topbar-right">
             <div className="search-box">Role: {activeRole} · ERP-style UI, edit through action buttons</div>

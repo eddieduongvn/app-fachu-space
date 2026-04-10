@@ -1,6 +1,6 @@
-# Nexa Ops Demo
+# AppFachu
 
-Prototype SaaS admin dashboard for business and project management.
+FACHU ECOM ERP demo application packaged as Project AppFachu.
 
 ## Run locally
 
